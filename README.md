@@ -6,6 +6,4 @@ List of projects is as follows:
 2. HR Dashboard Using Power BI : (File Name : HR Dashboard.pbix) This dashboard is created in Power BI which provides visualizations on HR data.
 3. Global Health Statistics Dashboard using Power BI : (File Name : Global Health Statistics.pbix) This dashboard is created in Power BI which provides visualizations on health indicators and affected population.
 4. Shopping Cart Tableau Dashboard using Tableau : (File Name : Shopping Cart Tableau Dashboard (1).twbx) This dashboard is created in Tableau which provides visualizations related to Customers, Sales, Profit , and Orders.
-5. Crypto Currency Analysis :  
-
-   
+5. Crypto Currency Analysis : Data analysis, visualization and model testing and selection is done for Crypto Currencies using pandas, numpy, matplotlib, seaborn and Scikit-learn.   
