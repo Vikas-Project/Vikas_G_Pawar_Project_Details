@@ -1,4 +1,4 @@
-# Vikas_Project_Details
+# Vikas_Project_Detail
 This repository contains my projects on Power BI, Excel, Tableau and Python
 
 List of projects is as follows:
